@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: powderblue;
+}
+
+#headerBlock {
+    text-align: center;
+}
+
+#headHr {
+    margin-bottom: 25px;
+}
+
+#inputBlock {
+    text-align: center;
+}
